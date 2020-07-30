@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![xn213's Github stats](https://github-readme-stats.vercel.app/api?username=xn213&show_icons=true)
+![xn213's Github stats](https://github-readme-stats.vercel.app/api?username=xn213&show_icons=true&theme=gruvbox)
 
 ## Visiters
 
